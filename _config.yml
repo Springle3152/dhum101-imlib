@@ -18,10 +18,10 @@
 # Feel free to change these! For more info, refer to:
 # ~> https://jekyllrb.com/docs/configuration/options/
 
-title:            'Wax'
-description:      'Minimal Exhibitions with Jekyll'
+title:            'Cuento de Invierno'
+description:      'Universidad del Atlantico student theater project'
 url:              'https://github.com/Springle3152/wax.git'
-baseurl:          '/wax'
+baseurl:          '/cuento'
 copyright:        'Example copyright org, 2019'
 logo:             '/assets/logo.png'
 
@@ -64,13 +64,13 @@ kramdown:
 collections:
   exhibits:
     output: true
-  katsukawa: # name of collection
+  cuento: # name of collection
     output: true # makes sure pages are output as html files
-    layout: 'katsukawa_item' # the layout for the pages to use
+    layout: 'cuento_item' # the layout for the pages to use
     metadata:
-      source: 'katsukawa_records.csv' # path to the metadata file within `_data`
+      source: 'cuento' # path to the metadata file within `_data`
     images:
-      source: 'katsukawa_images' # path to the directory of images within `_data`
+      source: 'cuento_images' # path to the directory of images within `_data`
 
 # --------------------------------------------------------------
 # SEARCH INDEX SETTINGS

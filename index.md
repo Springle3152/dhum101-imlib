@@ -2,16 +2,16 @@
 layout: page
 show_title: false
 banner:
-  collection: katsukawa
-  pid: rijks_kasukawa_001
+  collection: cuento
+  pid: cuento00.png
   y: 25%
   height: '500px'
 ---
 
-__Wax__ is an amazing [minimal computing](http://go-dh.github.io/mincomp/) project for producing incredible digital exhibitions focused on longevity, low costs, and flexibility. Our underlying technology is made to learn and to teach, and can produce beautifully rendered, high-quality image collections and scholarly exhibits. To start using Wax, please see our [documentation](https://minicomp.github.io/wiki/#/wax/) for installation instructions and more.
+__Cuento de Invierno__ was an interdisciplinary project realized by students in the Theater, Dance, Music and Visual Arts programs at [Universidad del Atlantico](https://www.uniatlantico.edu.co/uatlantico/) in Barranquilla, Colombia, in 2016-17. Around 80 students, assisted by around 11 faculty, loosely adapted Marcelo Cohen's translation of Shakespeare's The Winter's Tale for the stage. They built sets, wrote music, choreographed, designed lighting and designed posters and lots of other things.
 
-The collection items in this demo are from The Museum of Islamic Art, Qatar, (courtesy of [WikiMedia](https://commons.wikimedia.org/wiki/Category:Google_Art_Project_works_in_The_Museum_of_Islamic_Art,_Qatar) and [Google Art Project](https://www.google.com/culturalinstitute/about/artproject/)) and The Qatar National Library (via [World Digital Library](https://www.wdl.org/en/)).
+A lot of the physical records that document this experience are in different places. Some photographs and art work, however, have been preserved here.
 
 ### Browse the Collection
 
-{% include collection_gallery.html facet_by='medium' collection='katsukawa' %}
+{% include collection_gallery.html facet_by='medium' collection='cuento' %}
