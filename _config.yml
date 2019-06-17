@@ -18,8 +18,8 @@
 # Feel free to change these! For more info, refer to:
 # ~> https://jekyllrb.com/docs/configuration/options/
 
-title:            'Cuento de Invierno'
-description:      'Universidad del Atlantico student theater project'
+title:            'DHUM 101 Image Library'
+description:      'Images for use in building digital projects'
 url:              'https://github.com/Springle3152/wax.git'
 baseurl:          '/cuento'
 copyright:        'Example copyright org, 2019'
@@ -68,9 +68,17 @@ collections:
     output: true # makes sure pages are output as html files
     layout: 'cuento_item' # the layout for the pages to use
     metadata:
-      source: 'cuento' # path to the metadata file within `_data`
+      source: 'cuento_records.csv' # path to the metadata file within `_data`
     images:
       source: 'cuento_images' # path to the directory of images within `_data`
+    output: true
+  dirty_money: # name of collection
+    output: true # makes sure pages are output as html files
+    layout: 'dirty_money_item' # the layout for the pages to use
+    metadata:
+      source: 'dirty_money_records.csv' # path to the metadata file within `_data`
+    images:
+      source: 'dirty_money_images' # path to the directory of images within `_data`
 
 # --------------------------------------------------------------
 # SEARCH INDEX SETTINGS
@@ -84,15 +92,24 @@ search:
   main:
     index: '/search/index.json' # file the index will get written to
     collections:
-      katsukawa:
+      cuento:
         content: false # whether or not to index page content
         fields: # the metadata fields to index
-          - description
+          - location
+          - Description
           - _date
-          - medium
+          - object_type
+          - author
           - collection
-          - source
-          - label
+      dirty_money: # name of collection
+        content: false # whether or not to index page content
+        fields: # the metadata fields to index
+          - location
+          - Description
+          - _date
+          - object_type
+          - author
+          - collection
 
 # --------------------------------------------------------------
 # SITE MENU SETTINGS

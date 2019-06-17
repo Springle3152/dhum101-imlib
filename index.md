@@ -3,15 +3,17 @@ layout: page
 show_title: false
 banner:
   collection: cuento
-  pid: cuento00.png
+  pid: cuento22
   y: 25%
   height: '500px'
 ---
 
-__Cuento de Invierno__ was an interdisciplinary project realized by students in the Theater, Dance, Music and Visual Arts programs at [Universidad del Atlantico](https://www.uniatlantico.edu.co/uatlantico/) in Barranquilla, Colombia, in 2016-17. Around 80 students, assisted by around 11 faculty, loosely adapted Marcelo Cohen's translation of Shakespeare's The Winter's Tale for the stage. They built sets, wrote music, choreographed, designed lighting and designed posters and lots of other things.
+__These mangroves__ were photographed by Ilian Sanchez Rodriguez at Bocas de Ceniza near Barranquilla, Colombia, in 2017. Using the photos as a starting point, Gisella Lopez Ariza created the __illustrations__ of the mangroves.
 
-A lot of the physical records that document this experience are in different places. Some photographs and art work, however, have been preserved here.
+__Dirty Money__ is a 2015 exhibition of Ilian Sanchez Rodriguez's work at Facultad de Bellas Artes, Universidad del Atlantico, Barranquilla, Colombia.
 
-### Browse the Collection
+### Browse the Collections
 
 {% include collection_gallery.html facet_by='medium' collection='cuento' %}
+
+{% include collection_gallery.html facet_by='medium' collection='dirty_money' %}

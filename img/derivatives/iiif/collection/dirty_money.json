@@ -1,0 +1,56 @@
+---
+layout: none
+---
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/collection/dirty_money.json",
+  "@type": "sc:Collection",
+  "label": "dirty_money",
+  "manifests": [
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/dirt09/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "dirt09"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/dirt08/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "dirt08"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/dirt01/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "dirt01"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/dirt03/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "dirt03"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/dirt02/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "dirt02"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/dirt06/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "dirt06"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/dirt07/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "dirt07"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/dirt05/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "dirt05"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/dirt04/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "dirt04"
+    }
+  ]
+}

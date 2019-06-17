@@ -1,0 +1,41 @@
+---
+layout: none
+---
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/collection/cuento.json",
+  "@type": "sc:Collection",
+  "label": "cuento",
+  "manifests": [
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/cuento22/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "cuento22"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/cuento23/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "cuento23"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/cuento21/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "cuento21"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/cuento20/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "cuento20"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/cuento24/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "cuento24"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/cuento25/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "cuento25"
+    }
+  ]
+}

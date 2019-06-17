@@ -1,38 +1,7 @@
-pid,moment,location,Description,_date,object_type,author,source,order
-cuento00,Bohemia-Macondo,frontispiece,Proposal,Spring 2016,Illustration,Gisella Lopez,,0
-cuento01,Destination,Barranquilla,Universidad del Atlantico Facultad de Bellas Artes,Fall 2015,photo,,,1
-cuento02,Destination,Barranquilla,Sede Centro,Fall 2015,photo,,,2
-cuento03,Possibilities,Barranquilla,Students rehearsing,Fall 2015,photo,,,3
-cuento04,Mystery,Puerto Mocho,Bocas de Cenizas,Spring 2016,photo,,,4
-cuento05,Magic,Puerto Mocho,Bocas de Cenizas,Spring 2016,photo,,,5
-cuento06,Idea,Buenos Aires,Cuento de Invierno   ,Spring 2016,photo,,,7
-cuento07,Copyright,Buenos Aires,Marcelo Cohen,Spring 2016,photo,unknown,,8
-cuento08,Adaptation,Barranquilla,Working with Tania Iglesias,Spring 2016,photo,Ilian Sanchez,,9
-cuento09,Blacaman,Bogota-Macondo-Bohemia,Blacaman el Buen Vendedor de Milagros,1960s,photo,unknown,http://dulltooldimbulb.blogspot.com/2014/05/additional-photographs-of-blacaman-for.html,10
-cuento10,Modern Blacaman,Barranquilla,Como se llamaba,Fall 2016,photo,,,13
-cuento11,Presentation,Barranquilla,Presentation of Project,Fall 2017,photo,Hector Escamilla,,14
-cuento12,Presentation,Barranquilla,Good response,Fall 2017,photo,Hector Escamilla,,15
-cuento13,Presentation,Barranquilla,A team is formed,Fall 2017,photo,Gisella Lopez,,16
-cuento14,Reading,Barranquilla,Cast read their parts,Fall 2017,photo,,,18
-cuento15,Scouting,Puerto Mocho,Students document the beach where Perdita will land,Fall 2017,photo,,,19
-cuento19,Scouting,Puerto Mocho,Students document the beach where Perdita will land,Fall 2017,photo,,,20
-cuento20,Connecting motif,Bocas de Cenizas,Manglares,Fall 2017,photo,,,21
-cuento21,Connecting motif,Bocas de Cenizas,Manglares,Fall 2017,photo,,,22
-cuento22,Manglares,Macondo,Cinco,Fall 2017,photo,Gisella Lopez,,23
-cuento23,Manglares,Macondo,Cuatro,Fall 2018,photo,Gisella Lopez,,24
-cuento24,Manglares,Macondo,Tres,Fall 2019,photo,Gisella Lopez,,25
-cuento25,Manglares,Macondo,Dos,Fall 2020,photo,Gisella Lopez,,26
-cuento26,Manglares,Macondo,Uno,Fall 2021,photo,Gisella Lopez,,27
-cuento27,Pulse,Barranquilla,Pico,Spring 2017,photo,,,28
-cuento28,Rehearsal,Barranquilla,Rehearsal at Sede Norte,Spring 2017,photo,unremembered,,29
-cuento29,Rehearsal,Barranquilla,Cast discuss parts,Spring 2017,photo,Ilian Sanchez,,30
-cuento30,Rehearsal,Barranquilla,Rehearsal in theater,Spring 2017,photo,,,31
-cuento31,Poster 1,Barranquilla,Poster 1,Summer 2018,Illustration,Gisella Lopez,,32
-cuento32,Poster 2,Barranquilla,Poster 2,Summer 2018,Illustration,Gisella Lopez,,33
-cuento33,flyer,Barranquilla,Flyer,Summer 2018,Illustration,Gisella Lopez,,34
-cuento34,escaparela,Barranquilla,Escaparela,Summer 2018,Illustration,Gisella Lopez,,35
-cuento35,invitacion,Barranquilla,Invitacion,Summer 2018,Illustration,Gisella Lopez,,36
-cuento36,boleto,Barranquilla,Boleto,Summer 2018,Illustration,Gisella Lopez,,37
-cuento37,Success,Santa Marta,Cuento de Invierno at Teatro Calamag,Summer 2018,Screenshot,unknown,,38
-cuento38,Final,Macondo,Dream puffers,Summer 2017,Assemblage,Gisella Lopez,,39
-cuento39,Fondo,Macondo,Fondo,Summer 2017,Color Palette,Gisella Lopez,,40
+pid,moment,location,Description,_date,object_type,author,source,order,layout,collection,thumbnail,full,manifest
+cuento20,Manglares,Bocas de Ceniza,Manglares,Fall 2017,photo,Ilian Sanchez,,21,cuento_item,cuento,"/img/derivatives/iiif/images/cuento20/full/250,/0/default.jpg",/img/derivatives/iiif/images/cuento20/full/full/0/default.jpg,/img/derivatives/iiif/cuento20/manifest.json
+cuento21,Manglares,Bocas de Ceniza,Manglares,Fall 2017,photo,Ilian Sanchez,,22,cuento_item,cuento,"/img/derivatives/iiif/images/cuento21/full/250,/0/default.jpg",/img/derivatives/iiif/images/cuento21/full/full/0/default.jpg,/img/derivatives/iiif/cuento21/manifest.json
+cuento22,Manglares,Barranquilla,Cinco,Fall 2017,photo,Gisella Lopez,,23,cuento_item,cuento,"/img/derivatives/iiif/images/cuento22/full/250,/0/default.jpg",/img/derivatives/iiif/images/cuento22/full/full/0/default.jpg,/img/derivatives/iiif/cuento22/manifest.json
+cuento23,Manglares,Barranquilla,Cuatro,Fall 2018,photo,Gisella Lopez,,24,cuento_item,cuento,"/img/derivatives/iiif/images/cuento23/full/250,/0/default.jpg",/img/derivatives/iiif/images/cuento23/full/full/0/default.jpg,/img/derivatives/iiif/cuento23/manifest.json
+cuento24,Manglares,Barranquilla,Tres,Fall 2019,photo,Gisella Lopez,,25,cuento_item,cuento,"/img/derivatives/iiif/images/cuento24/full/250,/0/default.jpg",/img/derivatives/iiif/images/cuento24/full/full/0/default.jpg,/img/derivatives/iiif/cuento24/manifest.json
+cuento25,Manglares,Barranquilla,Dos,Fall 2020,photo,Gisella Lopez,,26,cuento_item,cuento,"/img/derivatives/iiif/images/cuento25/full/250,/0/default.jpg",/img/derivatives/iiif/images/cuento25/full/full/0/default.jpg,/img/derivatives/iiif/cuento25/manifest.json
