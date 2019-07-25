@@ -157,3 +157,5 @@ footer:
     - img: '/img/logo.png'
 
 # FIN
+
+theme: jekyll-theme-minimal
